@@ -64,3 +64,9 @@ The dataset contained the following columns:
 ## Project Outcome
 By structuring and analyzing the dataset, I produced actionable insights, created dynamic reports, and developed a repeatable workflow.  
 The project shows how Excel can move beyond simple data entry and function as a powerful analysis tool for trend detection, decision-making, and performance evaluation.  
+
+## Additional Work: Bike Sales Visualization (Optional)
+For those interested in exploring further, I've included a separate Excel file called **"Bike Sales Visualization"**, which demonstrates:
+- Different pivot tables and dynamic charts
+
+
