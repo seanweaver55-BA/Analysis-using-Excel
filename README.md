@@ -20,7 +20,7 @@ The analysis highlights how well-structured datasets can drive data-informed dec
 - **Core Functions**  
   - `SUM`, `AVERAGE`, `COUNTIF`, `IF` and nested formulas for automation.  
   - Lookup functions such as `VLOOKUP` and `INDEX-MATCH` for extracting relevant data.  
-![Description](https://github.com/user-attachments/assets/535c2be6-90c9-4e3d-9051-3540b29a1ede
+<img src="https://github.com/user-attachments/assets/535c2be6-90c9-4e3d-9051-3540b29a1ede" alt="Pivot Table Example" width="600"/>
 
 - **Conditional Formatting**  
   - Used color-based rules to emphasize sales trends, highlight high-performing products, and spot anomalies quickly.  
