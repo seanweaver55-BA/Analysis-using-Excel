@@ -12,7 +12,7 @@ The analysis highlights how well-structured datasets can drive data-informed dec
 - **Cell Referencing**  
   - Applied absolute, relative, and mixed references to create adaptable formulas.  
   - Ensured formulas remain consistent across sheets and scalable for larger datasets.  
-![Sales Dashboard](![Sales Dashboard](https://user-images.githubusercontent.com/12345678/abc12345-example.png)
+
 
 ---
 
