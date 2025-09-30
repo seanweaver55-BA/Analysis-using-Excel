@@ -68,5 +68,6 @@ The project shows how Excel can move beyond simple data entry and function as a 
 ## Additional Work: Bike Sales Visualization (Optional)
 For those interested in exploring further, I've included a separate Excel file called **"Bike Sales Visualization"**, which demonstrates:
 - Different pivot tables and dynamic charts
-
+<img src="https://github.com/user-attachments/assets/b89fb140-fa7e-4aa9-bbad-fd2fac97d21e" alt="Data Visualization Example 2" width="600"/>
+<img src="https://github.com/user-attachments/assets/c3919b50-27d5-4d6a-beb0-ee78502aa2a1" alt="Data Visualization Example" width="600"/>
 
