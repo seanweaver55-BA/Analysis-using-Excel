@@ -25,6 +25,7 @@ The analysis highlights how well-structured datasets can drive data-informed dec
 
 - **Conditional Formatting**  
   - Used color-based rules to emphasize sales trends, highlight high-performing products, and spot anomalies quickly.  
+<img src="https://github.com/user-attachments/assets/0d261b54-fa0c-466e-887a-a9d8df80d7ab" alt="Excel Chart Example" width="600"/>
 
 ---
 
