@@ -33,6 +33,7 @@ The analysis highlights how well-structured datasets can drive data-informed dec
 - Built **Pivot Tables** to summarize sales by region, category, and customer segment.  
 - Created **Pivot Charts** for interactive exploration of revenue patterns, product performance, and growth over time.  
 - Combined visuals and tables into a compact **dashboard** for at-a-glance insights.  
+<img src="https://github.com/user-attachments/assets/81766643-a307-403a-a44a-553fb94a75fb" alt="Dashboard View" width="600"/>
 
 ---
 
